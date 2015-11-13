@@ -24,3 +24,5 @@ Unit testing on Android: http://www.toptal.com/android/testing-like-a-true-green
 RxJava and testing: https://medium.com/ribot-labs/unit-testing-rxjava-6e9540d4a329
 
 Testing and MVP: http://stephenpengilley.blogspot.de/2014/04/my-first-dip-into-mvp-on-android.html
+
+Unit testing book: https://leanpub.com/wewut
