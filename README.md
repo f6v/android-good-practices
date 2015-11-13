@@ -15,6 +15,8 @@ DI framework: http://google.github.io/dagger/
 DI framework: https://github.com/roboguice/roboguice
 
 ## Unit testing
+Google engineers on different types of tests: http://googletesting.blogspot.de/2015/04/just-say-no-to-more-end-to-end-tests.html and
+http://googletesting.blogspot.de/2015/03/android-ui-automated-testing.html
 
 Excelent book on JUnit and Mockito Practical Unit Testing with JUnit and Mockito: by Tomek Kaczanowski 
 Link: http://amzn.com/8393489393
