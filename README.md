@@ -7,6 +7,9 @@ Excelent article on MVP: http://antonioleiva.com/mvp-android/ with code example 
 
 Clean architecture, MVP: http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/
 
+Great talk about building scalable architecture: http://nyc.droidcon.com/2014/dcnyc/22/
+
+
 ## Dependency injection
 
 http://martinfowler.com/articles/injection.html
