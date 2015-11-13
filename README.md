@@ -12,6 +12,7 @@ Clean architecture, MVP: http://fernandocejas.com/2014/09/03/architecting-androi
 http://martinfowler.com/articles/injection.html
 
 DI framework: http://google.github.io/dagger/
+
 DI framework: https://github.com/roboguice/roboguice
 
 ## Unit testing
