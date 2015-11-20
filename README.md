@@ -32,3 +32,7 @@ RxJava and testing: https://medium.com/ribot-labs/unit-testing-rxjava-6e9540d4a3
 Testing and MVP: http://stephenpengilley.blogspot.de/2014/04/my-first-dip-into-mvp-on-android.html
 
 Unit testing book: https://leanpub.com/wewut
+
+## Mockito
+
+Mocking async code: http://fernandocejas.com/2014/04/08/unit-testing-asynchronous-methods-with-mockito/
