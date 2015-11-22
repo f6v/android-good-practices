@@ -9,6 +9,8 @@ Clean architecture, MVP: http://fernandocejas.com/2014/09/03/architecting-androi
 
 Great talk about building scalable architecture: http://nyc.droidcon.com/2014/dcnyc/22/
 
+Uncle Bob's talk about the benefits of building framework-independent applications: https://vimeo.com/43612849 
+
 
 ## Dependency injection
 
